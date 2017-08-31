@@ -22,4 +22,6 @@ class ViewController: UIViewController {
 
 
 }
-
+func sum()->(){
+    print("helloworld")
+}
